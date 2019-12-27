@@ -1,6 +1,6 @@
 {
   "name": "proyecto-2a-matematicas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "proyecto de matematicas sencillo para aprender node y subir a npm",
   "main": "index.js",
   "scripts": {
