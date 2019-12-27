@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-1a-matematicas",
+  "version": "1.0.0",
+  "description": "proyecto de matematicas sencillo para aprender node y subir a npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresclavijor/proyecto-1a-matematicas.git"
+  },
+  "keywords": [
+    "math",
+    "matematicas",
+    "suma",
+    "resta",
+    "multiplicación",
+    "division"
+  ],
+  "author": "Andres Clavijo Rodriguez <shipoca2007@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresclavijor/proyecto-1a-matematicas/issues"
+  },
+  "homepage": "https://github.com/andresclavijor/proyecto-1a-matematicas#readme"
+}
