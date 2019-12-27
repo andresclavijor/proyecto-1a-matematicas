@@ -3,7 +3,7 @@ const m = require('.');
 console.log(m.suma(1,3));
 console.log(m.suma(12,3));
 
-console.log(m.resta(1,3));
+console.log(m.resta(5,false));
 console.log(m.resta(12,3));
 
 console.log(m.multiplicacion(1,3));
